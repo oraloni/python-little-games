@@ -1,7 +1,7 @@
 # python-little-games
 
 Small games coded in Python as part as my attempt to master programming fundamentals.
-Those Python interpretation of games introduced in Basic programming language in several book sold throughout the 80's.
+Those are Python interpretation of games introduced in Basic programming language in several books sold throughout the 80's.
 
 
 games started:
@@ -14,5 +14,5 @@ games started:
 
 classes
 
-- yesqno query
+- yesno query
 - strframe
